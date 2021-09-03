@@ -1,0 +1,46 @@
+body
+{
+  background-color : #afeeee;
+}
+
+hr
+{
+  background-color: none;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 100%;
+}
+
+img:hover {
+  background-color: gold;
+}
+h1
+{
+  color: #FF4848;
+}
+h3
+{
+  color: #346751;
+
+}
+
+/******** CLASS SELECTORS*******/
+.monkey {
+  background-color: white;
+}
+
+.monkey1 {
+  background-color: grey;
+}
+
+.circular {
+  border-radius: 100%;
+}
+/********** ID selector *****/
+
+#heading {
+  color: orange;
+
+
+}
